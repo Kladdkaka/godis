@@ -1,3 +1,6 @@
+$().ready(function() {
+                $('#introbody').tubular({videoId: 'zUb9qAQ5Qmk'}); // where idOfYourVideo is the YouTube ID.
+        });
 /*!
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
